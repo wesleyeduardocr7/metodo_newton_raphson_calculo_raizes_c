@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614162358 source:c:\users\wesley eduardo\google drive\ifma\disciplinas\8º período\computação paralela\projeto newton\newton raphson\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
